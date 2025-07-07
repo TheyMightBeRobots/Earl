@@ -1,3 +1,0 @@
-The system will shutdown in approximately 2 hours
-
-To cancel this run "sudo shutdown -c"
